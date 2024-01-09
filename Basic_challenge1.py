@@ -5,7 +5,7 @@ Escolha uma das operações
 [1] = depositar
 [2] = sacar
 [3] = extrato
-[4] = sair
+[4] = sair1
 
 """
 saldo_inicial = 0
@@ -53,3 +53,4 @@ while True:
 
     else:
         print("Operação inválida")
+
